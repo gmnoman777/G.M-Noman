@@ -1,0 +1,6 @@
+git init --(use it one time in each project)
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gmnoman777/G.M-Noman.git
+git push -u origin main
